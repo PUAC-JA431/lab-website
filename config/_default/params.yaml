@@ -13,16 +13,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "先進電化學與材料實驗室 / Advanced Electrochemistry & Materials Lab"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "先進電化學與材料實驗室 / Advanced Electrochemistry & Materials Lab"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "先進材料與電化學系統研究 / Research in Advanced Materials and Electrochemical Systems"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "先進電化學與材料實驗室致力於高效能儲能、轉換材料與應用技術之研究。Advanced Electrochemistry & Materials Lab advances research in high-performance energy storage, conversion materials, and applied technologies."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
@@ -107,7 +106,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: ""
+    text: "先進電化學與材料實驗室 | Advanced Electrochemistry & Materials Lab"
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
@@ -115,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© 2026 Advanced Electrochemistry & Materials Lab. 版權所有 / All rights reserved."
     license:
       type: cc # cc | custom
       allow_derivatives: false
